@@ -1,4 +1,4 @@
-# inputstream.rtmp addon for Kodi
+# inputstream.rtmp (librtmp with K-S-V patches) addon for Kodi
 
 This is a [Kodi](http://kodi.tv) input stream addon for RTMP.
 
