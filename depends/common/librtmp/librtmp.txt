@@ -1,0 +1,1 @@
+librtmp https://github.com/jairoxyz/rtmpdump-ksv-jx/raw/master/rtmpdump-ksv.tar.gz
