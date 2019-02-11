@@ -14,5 +14,9 @@
     <summary lang="en">InputStream Client for RTMP streams</summary>
     <description lang="en">InputStream Client for RTMP streams using librtmp with K-S-V patches</description>
     <platform>@PLATFORM@</platform>
+    <noicon>true</noicon>
+    <nofanart>true</nofanart>
+    <nochangelog>true</nochangelog>
+    <path>inputstream.rtmp+@PLATFORM@/inputstream.rtmp-20.0.51.zip</path>
   </extension>
 </addon>
